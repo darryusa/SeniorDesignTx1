@@ -1,0 +1,2 @@
+cv_bridge:image_processing:racecar/ackermann_cmd_mux:racecar/racecar:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver_left:vesc/vesc_driver_right:vesc/vesc_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
